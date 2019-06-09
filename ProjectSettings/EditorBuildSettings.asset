@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Digital Mock-up/Movement.unity
+    guid: 70853724996268749ad342a13fb207e5
+  - enabled: 0
+    path: Assets/Digital Mock-up/Movement.unity
+    guid: 70853724996268749ad342a13fb207e5
+  - enabled: 0
+    path: Assets/Digital Mock-up/Movement.unity
+    guid: 70853724996268749ad342a13fb207e5
+  - enabled: 0
+    path: Assets/Digital Mock-up/Movement.unity
+    guid: 70853724996268749ad342a13fb207e5
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Digital Mock-up/Menu.unity
+    guid: 85c03a470af1f4e41907d7bd9639f482
+  - enabled: 1
+    path: Assets/AlphaTest/Tutorial.unity
+    guid: 3849095824486ce49bf81c99baab7d15
+  - enabled: 1
+    path: Assets/AlphaTest/Level1.unity
+    guid: 513a899ff0dadf547b775d434fdac89d
+  - enabled: 1
+    path: Assets/Digital Mock-up/Gameover.unity
+    guid: 3f7c386b14b2fee4ba0c4d464fdbd022
+  - enabled: 1
+    path: Assets/Digital Mock-up/Fighting.unity
+    guid: f8538c89a0336b644a9c662c6649189e
+  - enabled: 1
+    path: Assets/Digital Mock-up/Fighting.unity
+    guid: f8538c89a0336b644a9c662c6649189e
+  - enabled: 1
+    path: Assets/Digital Mock-up/YouWin.unity
+    guid: 4709bff20aae9174c9cfcd8eeee55074
+  - enabled: 1
+    path: Assets/Level.unity
+    guid: 1f60eaf5e2f6bd848850723f3acabe24
+  - enabled: 1
+    path: Assets/T_Level1.unity
+    guid: ed4d2f29d01b42f4eac319e596031a70
+  - enabled: 1
+    path: Assets/T_Level2.unity
+    guid: c775ce9cdd186534f848d47924d4ae22
+  - enabled: 1
+    path: Assets/Fighting_Tutorial.unity
+    guid: bf4ed8b08f806ef439a5a19fd610ac46
+  - enabled: 1
+    path: Assets/Digital Mock-up/Pause.unity
+    guid: 0e39f62596475a040bf2d3708736ab72
+  - enabled: 1
+    path: Assets/Goal.unity
+    guid: 449c95feb97ef0549bfea64cea29a527
+  - enabled: 1
+    path: Assets/Final.unity
+    guid: 10733c061e6d44d46993e7c56122e618
